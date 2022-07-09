@@ -33,6 +33,9 @@ $ python bin2csv.py SinsoidalWaveform.bin --newfile Sine.csv
 
 will create a Sine.csv file.
 
+## Acknowledgements
+
+Utilization of https://github.com/FaustinCarter/agilent_read_binary
 
 ## Contributing
 Pull requests are welcome.
