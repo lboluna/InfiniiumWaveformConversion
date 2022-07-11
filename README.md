@@ -1,8 +1,12 @@
 # Infiniium Waveform File Format Converter:
-#   bin2csv and csv2bin
+>  **bin2csv.py and csv2bin.py**
 
 
-# bin2csv.py
+
+
+
+
+# *bin2csv.py*
 
 bin2csv.py is a Python script to convert Infiniium bin waveform file format to the Infiniium CSV wavefrom file format.
 
@@ -36,7 +40,7 @@ $ python bin2csv.py SinsoidalWaveform.bin --newfile Sine.csv
 will create a Sine.csv file.
 
 
-# csv2bin.py
+# *csv2bin.py*
 
 csv2bin.py is a Python script to convert Infiniium CSV waveform file format to the Infiniium bin wavefrom file format.
 
@@ -82,3 +86,9 @@ Plan is to expand to other file conversion formats as needed.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+
+
+### Author:  Luis Boluña  (luis.boluna@keysight.com)
