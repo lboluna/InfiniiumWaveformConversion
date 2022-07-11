@@ -87,8 +87,3 @@ Plan is to expand to other file conversion formats as needed.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-
-
-
-### Author:  Luis Boluña  (luis.boluna@keysight.com)
